@@ -1,15 +1,15 @@
 {
-  "main.css": "/Ajay-o-s/Whatsapp-web/static/css/main.aa8ddd22.chunk.css",
-  "main.js": "/Ajay-o-s/Whatsapp-web/static/js/main.64245b52.chunk.js",
-  "main.js.map": "/Ajay-o-s/Whatsapp-web/static/js/main.64245b52.chunk.js.map",
-  "static/js/1.f99921d6.chunk.js": "/Ajay-o-s/Whatsapp-web/static/js/1.f99921d6.chunk.js",
-  "static/js/1.f99921d6.chunk.js.map": "/Ajay-o-s/Whatsapp-web/static/js/1.f99921d6.chunk.js.map",
-  "static/js/2.842d81c0.chunk.js": "/Ajay-o-s/Whatsapp-web/static/js/2.842d81c0.chunk.js",
-  "static/js/2.842d81c0.chunk.js.map": "/Ajay-o-s/Whatsapp-web/static/js/2.842d81c0.chunk.js.map",
-  "runtime~main.js": "/Ajay-o-s/Whatsapp-web/static/js/runtime~main.2ef9e3b2.js",
-  "runtime~main.js.map": "/Ajay-o-s/Whatsapp-web/static/js/runtime~main.2ef9e3b2.js.map",
-  "static/css/main.aa8ddd22.chunk.css.map": "/Ajay-o-s/Whatsapp-web/static/css/main.aa8ddd22.chunk.css.map",
-  "index.html": "/Ajay-o-s/Whatsapp-web/index.html",
-  "precache-manifest.b69b79440a7aee6be2297ed0911c99d8.js": "/Ajay-o-s/Whatsapp-web/precache-manifest.b69b79440a7aee6be2297ed0911c99d8.js",
-  "service-worker.js": "/Ajay-o-s/Whatsapp-web/service-worker.js"
+  "main.css": "./static/css/main.a7702132.chunk.css",
+  "main.js": "./static/js/main.1e6d132a.chunk.js",
+  "main.js.map": "./static/js/main.1e6d132a.chunk.js.map",
+  "static/js/1.05a8e767.chunk.js": "./static/js/1.05a8e767.chunk.js",
+  "static/js/1.05a8e767.chunk.js.map": "./static/js/1.05a8e767.chunk.js.map",
+  "static/js/2.f1188195.chunk.js": "./static/js/2.f1188195.chunk.js",
+  "static/js/2.f1188195.chunk.js.map": "./static/js/2.f1188195.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.8c6aed3c.js",
+  "runtime~main.js.map": "./static/js/runtime~main.8c6aed3c.js.map",
+  "static/css/main.a7702132.chunk.css.map": "./static/css/main.a7702132.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.3d149403fe58a6c0653781eb59216f33.js": "./precache-manifest.3d149403fe58a6c0653781eb59216f33.js",
+  "service-worker.js": "./service-worker.js"
 }
